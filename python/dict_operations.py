@@ -24,3 +24,4 @@ prod=1
 for i in dic.values():
     prod*=i
 print(prod)
+
